@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @g3merald
-- 👀 I’m interested in ... video games and coding
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
 - 😄 Pronouns: ... She/her
+- 👀 I’m interested in ... video games and coding
 
 <!---
 g3merald/g3merald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
